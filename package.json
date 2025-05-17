@@ -9,7 +9,7 @@
     "@lamassu/csexp": "^1.0.0",
     "@lamassu/supyo": "1.0.0",
     "async": "~1.5.2",
-    "base-x": "3.0.9",
+    "base-x": "3.0.11",
     "bignumber.js": "^4.0.1",
     "clim": "*",
     "core-js": "^3.21.1",
